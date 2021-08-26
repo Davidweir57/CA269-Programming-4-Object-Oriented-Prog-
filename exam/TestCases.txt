@@ -1,0 +1,4 @@
+navan:true
+No lemon, no melon.:false
+racercar:false
+!No lemon no meloN!:true
